@@ -2,7 +2,7 @@
 Sístema de lógica difusa para la interpretación de gasometrías arteriales.
 
 ## Desarrollo del proyecto
-Nuestro [sistema de lógica difusa](https://github.com/JanDuinkerken/Gasometrias-arteriales/blob/main/Gasometria.fis) fue creado en Matlab utilizando el add-on [Fuzzy Logic Toolbox](https://es.mathworks.com/products/fuzzy-logic.html).
+Nuestro [sistema de lógica difusa](https://github.com/JanDuinkerken/Gasometrias-arteriales/blob/main/Gasometria.fis) fue desarrollado en Matlab utilizando el add-on [Fuzzy Logic Toolbox](https://es.mathworks.com/products/fuzzy-logic.html).
 
 <img src="https://es.mathworks.com/products/fuzzy-logic/_jcr_content/mainParsys/band_copy_copy_copy_/mainParsys/columns/17d54180-2bc7-4dea-9001-ed61d4459cda/image.adapt.full.medium.jpg/1641206109172.jpg" width=700>
 
